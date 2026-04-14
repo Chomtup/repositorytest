@@ -6,3 +6,5 @@ print("I am 25 years old")
 x=10
 y=15
 z=20
+
+print("Main")
