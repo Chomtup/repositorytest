@@ -1,0 +1,6 @@
+#textfile
+*.txt
+
+#csv file
+ignorecsv.csv
+ignorecsv2.csv
