@@ -4,3 +4,6 @@
 #csv file
 ignorecsv.csv
 ignorecsv2.csv
+
+#md file
+*.md
